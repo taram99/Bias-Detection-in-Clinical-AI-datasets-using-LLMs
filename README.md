@@ -6,12 +6,10 @@ The thesis explores how large language models can audit healthcare datasets for 
 # Repository contents
 ## Datasets 
 This repository includes two datasets:
--data_new.csv
--diabetes_data.csv
+data_new.csv and diabetes_data.csv
 
 ## Manual Audits
--Manual audit for comorbidities dataset (data_new.csv)
--Manual audit for diabetes dataset (diabetes_data.csv)
+Manual audit for comorbidities dataset (data_new.csv) and a manual audit for diabetes dataset (diabetes_data.csv)
 
 These manual audits include:
 -Group representation and outcome rates across race, gender, and age group
