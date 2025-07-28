@@ -9,7 +9,7 @@ This repository includes two datasets:
 data_new.csv and diabetes_data.csv
 
 ## Manual Audits
-Manual audit for comorbidities dataset (data_new.csv) and a manual audit for diabetes dataset (diabetes_data.csv)
+Manual audit for comorbidities dataset (data_new.csv) and a manual audit for diabetes dataset (diabetic_data.csv)
 
 These manual audits include:
 -Group representation and outcome rates across race, gender, and age group
